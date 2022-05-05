@@ -32,8 +32,6 @@
 #navbar__logo {
   display: flex;
   align-items: center;
-  background-color: #ff8177;
-  background-image: linear-gradient(to top #ff0844 0% #ffb199 100%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -474,7 +472,6 @@
 
 .services h1 {
   background-color: #ff8177;
-  background-image: linear-gradient(to right #ff0844 0% #f7673c 100%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -499,7 +496,5 @@
   flex-direction: column;
   justify-content: center;
   color: #fff;
-  background-color: #ff8177;
-  background-image: linear-gradient(to right #00dbde 0% #fc00ff 100%);
   transition: 0.3s ease-in;
 }
